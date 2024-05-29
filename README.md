@@ -1,6 +1,6 @@
-# React Ub Modified By Ralph Emmason SDE
+# React designed By Ralph Emmason SDEgit init
 
-This is the jobs listing project from the [YouTube crash course](https://youtu.be/LDB4uaJ87e0).
+This is the jobs listing project HUB 
 
 <img src="public/screen.png" />
 
